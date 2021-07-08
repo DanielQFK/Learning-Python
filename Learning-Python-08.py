@@ -64,4 +64,3 @@ print(g[3:5]) # output = [7, 54]
 print(g[2:]) # output = [2, 7, 54, 7, 4]
 print(g) # output = [2, 4, 2, 7, 54, 7, 4]
 print(g[:]) # output = [2, 4, 2, 7, 54, 7, 4]
-

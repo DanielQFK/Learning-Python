@@ -46,5 +46,3 @@ elif Your_age<=19:
 else:
     print("You should pay 5 dollars...")
 # Attention = (<=) or (>=) means this is the same or more/less than... 
-
-

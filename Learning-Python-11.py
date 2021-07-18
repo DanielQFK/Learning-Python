@@ -2,7 +2,7 @@
 
 # tuples are so similar to lists but with a defference 
 
-# 1.You can change lists but you can't change touples
+# 1.You can change lists but you can't change tuples
 # 2.You write list in [] but you write tuple in ()
 
 Tuple = ('alex' , 'max' , 'emma' , 'john')

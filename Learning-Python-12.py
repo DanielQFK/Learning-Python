@@ -1,8 +1,8 @@
 # loop
 
 # lopps are so useful and so important in Python , because it can stop doing something many times
-# for example you want to write int-input for 20 times 
-# of course you can't so we use loop to do that
+# for example you want to write int-input for 20 times :(
+# of course you can't so we use loop to do that :)
 # we start with 'for' and we give it a variable e.g. 'x' and then in range(the number you want) with a :
 # e.g. 
 for x in range(20): 
@@ -25,6 +25,4 @@ for z in range(1 , 10):
 # e.g. 
 for t in range(1 , 50 , 3):
     print(t)
-# tip = 3 is the space between numbers...    
-
-
+# tip = 3 is the space between numbers...   

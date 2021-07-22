@@ -20,7 +20,7 @@ while x!=5:
 # But in this it will stop when x = 5    
 
 # 2.
-# But in For loop you don;t have to explain a condition , Just say a number to continue 
+# But in For loop you don't have to explain a condition , Just say a number to continue 
 # till it finishes... 
 
 # IMPORTANT TIP : Don't try while by printing something because it keeps on and it may 

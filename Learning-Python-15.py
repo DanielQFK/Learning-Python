@@ -48,7 +48,7 @@ for name in sorted(Greeting.keys()):
 # Hello john , How are you?
 # Hello zack , How are you?
 
-# A list in Dictionary 
+#** A list in Dictionary 
 Dictionary = {
     'Name':'Daniel' ,
     'Books':['Math' , 'Science' , 'Literature']
@@ -91,5 +91,4 @@ Their information =
  Name : Max 
  Lastname: Amini 
  Age :  32
-
 """    

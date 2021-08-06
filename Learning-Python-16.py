@@ -58,6 +58,7 @@ print(Q)
 # Tips = in returning , return something... 
 # give a variable to your def and remember to write your numbers in () and print that variable  ...
 
+
 # Function part 2
 
 # Using a Function with a while Loop
@@ -76,17 +77,19 @@ def Def1():
 Def1()
 
 # Importing
-"""At first you should have the file you want to import in that folder
+"""At first , you should have the file you want to import in that folder you want to perform importing (sometimes you don;t have to)
 then just write 
 from [name of the file] import [The name of def function in that file]
 from module_name import function_name
 from module_name import function_0, function_1, function_2
 """
+
 # Using as to Give a Function an Alias
-"""from pizza import numpy as np
+"""from [...] import numpy as np
 np()
-np()"""
+np()
+"""
 
 #Importing All Functions in a Module
-"""from [[name of the file]] import *   * is important
+"""from [[name of the file]] import *  (* is important)
 """

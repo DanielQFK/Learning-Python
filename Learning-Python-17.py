@@ -46,8 +46,7 @@ print(List_set)
 # Very very important tip: sets do not hold duplicate items
 duplicated_set = set([1,2,3,4,3,2,1,1,2,3,4,4,3,2,1,1,1,1,1,1,1])
 print(duplicated_set)
-"""output:{1, 2, 3, 4}
-"""
+"""output:{1, 2, 3, 4}"""
 
 #To create an empty set in Python we must use the set() function without passing any value for the parameters (x = {} is not true because it can be dictionary)
 

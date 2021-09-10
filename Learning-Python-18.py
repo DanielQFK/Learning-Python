@@ -33,7 +33,6 @@ Friday
 """
 
 
-
 # clearing the set
 Numbers = {0 , 1 , 2 , 3 , 4 , 5 , 6 , 7 , 8 , 9 , 10}
 Numbers.clear()
@@ -72,7 +71,6 @@ print(a | b | c)
 """
 
 
-
 # Set Intersection
 set1 = {1 , 2 , 3}
 set2 = {3 , 4 , 5}
@@ -87,13 +85,12 @@ print(Intersection)
 """
 
 
-
-
 # Set Difference
 """we continue with the "Set Intersection" valuables"""
 print(set1-set2)
 """output:{1, 2}
 """
+
 # or
 
 Difference = set1.difference(set2)
@@ -105,7 +102,6 @@ set4 = {4 , 5 , 6 , 7 , 8 , 9}
 print(set3.symmetric_difference(set4))
 """output:{1, 2, 3, 7, 8, 9}
 """
-
 
 
 # Set Comparison
@@ -120,13 +116,10 @@ True
 True""" 
 
 
-
 # Length
 set7 = {"max" , "jina" , "luara" , 2 , 123212221 , 4985748}
 print(len(set7))
 """output:6"""
-
-
 
 
 # Frozen Set

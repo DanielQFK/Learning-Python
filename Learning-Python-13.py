@@ -3,7 +3,7 @@
 # While loops are so similar to for loops but in some differences
 # 1.
 # in while loop you should explain a condition which means it will stop 
-# when the condition isn't true . Until the condition is true it keeps on working ...
+# when the condition is true . Until the condition is true it keeps on working ...
 # e.g.
 while "hello"=="hello":
     a = input("your name ? ")

@@ -25,7 +25,4 @@ class name: # class and # are musts
 My_name = name("Emma" , "Mattew") # You should fill the vluables of __init__() (name and last name)
 My_name.Height() #Now you call the method of Height
 My_name.Weight() #And call the method of Weight
-print(My_name.__dict__) # By __dict__ you print all info 
-
-
-
+print(My_name.__dict__) # By __dict__ you print all info...
